@@ -1,0 +1,6 @@
+framework module Corona_plugin_kochava_faa {
+  umbrella header "Corona_plugin_kochava_faa.h"
+
+  export *
+  module * { export * }
+}
